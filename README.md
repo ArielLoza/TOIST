@@ -1,2 +1,0 @@
-# TOIST
-Created with CodeSandbox
